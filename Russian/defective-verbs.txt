@@ -1,0 +1,276 @@
+1
+ басить
+ basit’
+ ‘to speak or sing in a deep voice’
+2
+ бдеть
+ bdet’
+ ‘to keep watch’
+3
+ бороздить
+ borozdit’
+ ‘to furrow’
+4
+ бузить, набузить
+ buzit’, nabuzit’
+ ‘to protest’
+5
+ выздвездить
+ vyzdvezdit’
+ ‘to cover with stars (??)’
+6
+ галдеть, загалдеть,
+ galdet’, zagaldet’,
+ ‘to make a hubbub’
+7
+ гвоздить
+ gvozdit’
+ ‘to hammer’
+8
+ гнусить
+ gnusit’
+ ‘to speak in nasal tones’
+9
+ голосить
+ golosit’
+ ‘to yell’
+10
+ грезить
+ grezit’
+ ‘to dream’
+11
+ гудеть
+ gudet’
+ ‘to honk’
+12
+ дерзить, надерзить
+ derzit’, naderzit’
+ ‘to be imprudent’
+13
+ дубасить
+ dubasit’
+ ‘to beat’
+14
+ дудеть, подудеть,
+ dudet’, podudet’,
+ ‘to play the pipe’
+15
+ елозить
+ elozit’
+ ‘to go crawling about’
+16 
+ ерундить,
+ erundit’, naerundit’
+ ‘to do stupid or funny things’
+17
+ желтить
+ želtit’
+ ‘to turn yellow’
+18
+ застить
+ zastit’
+ ‘to stand in someone’s way’
+19 
+ затмить, затмиться,
+ zatmit’, zatmit’sja,
+ ‘to eclipse’
+20
+ зудеть
+ zudet’
+ ‘to itch’
+21
+ капризить,
+ kaprizit’,
+ ‘to be capricious’
+22
+ колесить
+ kolesit’
+ ‘to go/drive around’
+23 
+ кудесить,
+ kudesit’, nakudesit’
+ ‘to do magic’
+24
+ кучить
+ kučit’
+ ‘to earth up (??)’
+25
+ ладить
+ ladit’
+ ‘to get along well’
+26
+ лазить
+ lazit’
+ ‘to climb’
+27
+ лебезить
+ lebezit’
+ ‘to fawn’
+28
+ лисить
+ lisit’
+
+29
+ лихорадить
+ lixoradit’
+ ‘to have a fever’
+30
+ лямзить, слямзить
+ ljamzit’, sljamzit’
+ ‘to steal’
+31
+ ляпсить, сляпсить
+ ljapsit’, sljapsit’
+ 
+32
+ мерзить
+ merzit’
+
+33
+ мутить
+ mutit’
+ ‘to stir up’
+34
+ нудить
+ nudit’
+ ‘to compel’
+35
+ обезлесить
+ obezlesit’
+ ‘to deforest’
+36
+ обезлошадить
+ obezlošadit’
+ ‘to steal a horse’
+37
+ обессмертить
+ obessmertit’
+ ‘to make something immortal’
+38
+ облесить
+ oblesit’
+
+39
+ обрусить
+ obrusit’
+ ‘to Russify’
+40
+ обуржуазить,
+ oburžuazit’,
+ ‘to make bourgeoisie’
+41
+ отчудить
+ otčudit’
+ ‘to alienate; to estrange’
+42 
+ очутиться
+ očutit’sja
+ ‘to find oneself; to come to be’
+43
+ ощутить
+ oščutit’
+ ‘to feel’
+44
+ парусить
+ parusit’
+ ‘to sail’
+45
+ переубедить,
+ pereubedit’,
+ ‘to change one’s mind’
+46 
+ победить
+ pobedit’
+ ‘to win’
+47
+ погалдеть
+ pogaldet’
+ ‘to make a lot of noise’
+48
+ потчудить
+ potčudit’
+ ‘to behave in a weird way’
+49
+ предубедить
+ predubedit’
+ ‘to be prejudiced (against)’
+50
+ претить
+ pretit’
+ ‘to sicken, to nauseate’
+51
+ приютиться
+ prijutit’sja
+ ‘to find shelter’
+52
+ пылесосить
+ pylesosit’
+ ‘to vacuum’
+53
+ разубедить,
+ razubedit’,
+ to dissuade (from)
+54 
+ рысить, зарысить,
+ rysit’, zarysit’,
+ ‘to trot’
+55
+ сбондить
+ sbondit’
+
+56
+ сбрендить
+ sbrendit’
+ ‘to go crazy’
+57 
+ соседить
+ sosedit’
+ ‘to be a neighbor’
+58 
+ убедить,
+ ubedit’, ubedit’sja,
+ ‘to persuade’
+59
+ угобзить
+ ugobzit’
+
+60
+ угораздить
+ ogorazdit’
+ ‘to urge; to make (do s.t.)’
+61 
+ умилосердить,
+ umiloserdit’
+ ‘to take pity on’
+62
+ форсить
+ forsit’
+ ‘to swagger, to show off’
+63
+ чадить
+ čadit’
+ ‘to smoke, to emit fumes’
+64
+ чтить, почтить
+ čtit’, počtit’
+ ‘to honor’
+65 
+ чудесить,
+ čudesit’, načudesit’
+ ‘to do magic’
+66 
+ чудить, начудить
+ čudit’, načudit’
+ ‘to behave in a weird way’
+67 
+ шелестеть,
+ šelestet’, zašelestet’,
+ ‘to rustle (of leaves)’
+68
+ шерстить,
+ šerstit’, perešerstit’
+ ‘to irritate (of a garment)’
+69 
+ шкодить,
+ škodit’, naškodit’
+ ‘to misbehave’
